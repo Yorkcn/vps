@@ -87,13 +87,13 @@ https://github.com/spiritLHLS/one-click-installation-script
 ### 交互形式
 
 ```bash
-curl -L [https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh](https://raw.githubusercontent.com/Yorkcn/vps/main/ecs.sh) -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
+curl -L https://raw.githubusercontent.com/Yorkcn/vps/main/ecs.sh -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
 ```
 
 或
 
 ```bash
-curl -L [https://github.com/spiritLHLS/ecs/raw/main/ecs.sh -o ecs.sh](https://raw.githubusercontent.com/Yorkcn/vps/main/ecs.sh) && chmod +x ecs.sh && bash ecs.sh
+curl -L https://raw.githubusercontent.com/Yorkcn/vps/main/ecs.sh && chmod +x ecs.sh && bash ecs.sh
 ```
 
 或
